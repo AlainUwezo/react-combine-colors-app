@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body.dark {
+  background-color: #1a202c; /* Couleur de fond sombre */
+  color: white; /* Couleur de texte sombre */
+}
+
+.header.dark {
+  background-color: #2d3748; /* Couleur de fond sombre pour l'en-tête */
+}
